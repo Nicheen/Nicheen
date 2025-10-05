@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Gustav</h1>
-  <h3>Electrical Engineering & Embedded Systems Student</h3>
+  <h3>Electrical Engineer & Embedded System Masters Student</h3>
   <p>From <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Sweden</b> • Currently studying in <b>Uppsala</b></p>
   
   <img src="https://komarev.com/ghpvc/?username=Nicheen&style=flat-square&color=blue" alt="Profile views"/>
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm passionate about **embedded systems** and **low-level programming**, with a focus on creating efficient and reliable solutions. Currently pursuing my degree in Electrical Engineering while building projects that bridge hardware and software.
+I'm passionate about **embedded systems** and **low-level programming**, with a focus on creating efficient and reliable solutions. Currently pursuing my master's degree in Embedded Systems while building projects that bridge hardware and software.
 
 ## 💻 Tech Stack
 
