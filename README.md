@@ -26,11 +26,14 @@ I'm an Embedded Systems Engineer with a background in Electrical Engineering, pa
 **Hardware & Microcontrollers**  
 ![Renesas RX](https://img.shields.io/badge/Renesas_RX-%23003087.svg?style=for-the-badge&logo=renesas&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-%23543978.svg?style=for-the-badge&logo=v&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 **Development Tools**  
 ![IAR Embedded Workbench](https://img.shields.io/badge/IAR_Embedded_Workbench-%23003087.svg?style=for-the-badge&logo=iar&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-%230078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
