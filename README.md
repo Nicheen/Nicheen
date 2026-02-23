@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Gustav</h1>
-  <h3>Electrical Engineer & Embedded Systems Master's Student</h3>
-  <p>From <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Sweden</b> • Currently studying in <b>Uppsala</b></p>
+  <h3>Embedded Systems Engineer</h3>
+  <p>From <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Sweden</b> • Based in <b>Uppsala</b></p>
   
   <img src="https://komarev.com/ghpvc/?username=Nicheen&style=flat-square&color=blue" alt="Profile views"/>
 </div>
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm passionate about **embedded systems** and **low-level programming**, with a focus on creating efficient and reliable solutions. Currently pursuing my master's degree in Embedded Systems while building projects that bridge hardware and software.
+I'm an Embedded Systems Engineer with a background in Electrical Engineering, passionate about **low-level programming**, **firmware development**, and building reliable hardware-software solutions. I specialize in microcontroller-based systems, motor control, and communication protocols.
 
 ## 💻 Tech Stack
 
@@ -23,9 +23,16 @@ I'm passionate about **embedded systems** and **low-level programming**, with a 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 
-**Hardware & FPGA**  
+**Hardware & Microcontrollers**  
+![Renesas RX](https://img.shields.io/badge/Renesas_RX-%23003087.svg?style=for-the-badge&logo=renesas&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-%23543978.svg?style=for-the-badge&logo=v&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+**Development Tools**  
+![IAR Embedded Workbench](https://img.shields.io/badge/IAR_Embedded_Workbench-%23003087.svg?style=for-the-badge&logo=iar&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Engineering & Simulation Tools**  
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -37,9 +44,11 @@ I'm passionate about **embedded systems** and **low-level programming**, with a 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-%23FF0000.svg?style=for-the-badge&logo=dassault-systemes&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-**Development Tools**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+## 🎮 Indie Game Studio
+
+I'm co-founder of **[Palarity AB](https://palarity.dev)** — an indie game studio based in Uppsala, Sweden. Together with a friend, we develop and publish games for digital platforms. We're currently working on our debut title **LevelShift**.
+
+> *Palarity also works with digital applications, software, hardware, and consulting in software/hardware development, game design, and digital marketing.*
 
 ## 📊 GitHub Stats
 
