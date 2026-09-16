@@ -49,9 +49,7 @@ I'm an Embedded Systems Engineer with a background in Electrical Engineering, pa
 
 ## 🎮 Indie Game Studio
 
-I'm co-founder of **[Palarity AB](https://palarity.dev)** — an indie game studio based in Uppsala, Sweden. Together with a friend, we develop and publish games for digital platforms. We're currently working on our debut title **LevelShift**.
-
-> *Palarity also works with digital applications, software, hardware, and consulting in software/hardware development, game design, and digital marketing.*
+I'm the co-founder of **[Palarity AB](https://palarity.dev)** - an indie game studio based in Uppsala, Sweden. We develop and publish computer games for digital platforms. We're currently working on our debut title **LevelShift**.
 
 ## 📊 GitHub Stats
 
