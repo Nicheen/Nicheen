@@ -45,7 +45,3 @@ Embedded Systems Engineer with an Electrical Engineering background. Passionate 
 ## 📫 Let's Connect
 
 Feel free to reach out if you want to collaborate on embedded projects or discuss anything tech-related!
-
----
-
-Open to talking embedded work, PCB bring-up, or game dev — mail or LinkedIn above.
