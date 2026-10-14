@@ -13,7 +13,7 @@
 
 Embedded Systems Engineer with an Electrical Engineering background. Passionate about **low-level programming**, **firmware development**, and building **reliable hardware-software solutions**. 
 
-- **Focus:** bare-metal firmware on Renesas RX and STM32, IAR toolchain, superloop and state-machine architectures
+- **Focus:** bare-metal firmware on Renesas RX and STM32, circuit board design in KiCAD and FPGA programming in VHDL
 - **Protocols:** CAN, SPI, I²C, UART, Modbus
 - **Off the clock:** co-founder of [Palarity AB](https://palarity.dev), an indie game studio in Uppsala. Debut title: **LevelShift**
 
